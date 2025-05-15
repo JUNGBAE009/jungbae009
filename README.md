@@ -38,4 +38,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
  
   <br>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungbae009&show_icons=true&theme=dracula)
 </div>
