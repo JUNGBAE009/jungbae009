@@ -1,4 +1,6 @@
-## print("Hello, World!") 👋
+## void main() {
+##  print('Hello, World! 👋');
+## } 
 
 <!--
 **JUNGBAE009/jungbae009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
