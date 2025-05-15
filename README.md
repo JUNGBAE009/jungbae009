@@ -39,5 +39,13 @@ Here are some ideas to get you started:
  
   <br>
 
+
+<div>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungbae009&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungbae009&layout=compact&theme=dracula)
+  
+</div>
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungbae009&show_icons=true&theme=dracula)
 </div>
